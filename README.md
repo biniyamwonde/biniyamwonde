@@ -1,66 +1,184 @@
-<h1 align="center">Hi 👋, I'm Biniyam</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Full-Stack+%26+AI+Engineer;Next.js+%7C+React+%7C+React+Native+%7C+Flutter;Golang+%7C+Node.js+%7C+Django+%7C+NestJS;Clean+Architecture+%7C+DDD+%7C+MVC;GCP+%7C+AWS+%7C+Docker;Building+scalable%2C+production-ready+systems" alt="Typing SVG" />
-</p>
+# Hi 👋, I'm **Biniyam Tefera**
 
-<h3 align="center">
-  🚀 Senior Full-Stack & AI Engineer  
-  Designing scalable systems, clean architectures, and AI-powered applications
-</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=620&lines=Data+Engineer+%26+Full-Stack+Developer;AI+%26+ML+Engineer;Scalable+Pipelines+%7C+Data+Extraction+%7C+APIs;React+%7C+Next.js+%7C+Node.js;Django+%7C+Vue.js+%7C+Nuxt.js;PostgreSQL+%7C+Docker+%7C+Cloud" alt="Typing SVG" />
 
+<br/>
 
+### 🚀 Data Engineer & Full-Stack Developer  
+**Building scalable data pipelines and AI-powered applications**  
+Python • JavaScript • Cloud Platforms • Web Scraping • System Design
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=seme555&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+
+<br/>
+
+<a href="mailto:biniyamwonde135@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;
+<a href="#featured-projects">
+  <img src="https://img.shields.io/badge/View%20Projects-1f6feb?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+&nbsp;
+<a href="#what-i-build">
+  <img src="https://img.shields.io/badge/What%20I%20Build-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
 
 <img align="right" alt="Coding" width="400" height="270" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
-🎯 I’m a **Senior Full-Stack & AI Engineer** with experience delivering **production-grade web & mobile apps**, **APIs**, and **scalable backends**.  
-🧠 I enjoy combining **clean architecture**, **strong engineering practices**, and **AI/ML integrations** to solve real-world problems.  
-🔭 Currently focused on: **Next.js platforms**, **Golang/Node.js services**, and **cloud-native architectures (GCP/AWS)**.  
-🌱 Always learning more about **system design**, **distributed systems**, and **LLM-powered products**.  
-💬 I care about **clean, maintainable code**, **reliability**, and **clear communication**.  
-📫 Reach me: **biniyamwonde135@gmail.com**
-
----
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biniyamwonde&theme=github-compact" alt="GitHub Activity Graph"/>
-</p>
-
-<!-- Profile Summary Card (requires profile-summary-cards setup) -->
-<a href="https://github.com/biniyamwonde">
-  <img src="https://github.com/biniyamwonde/biniyamwonde/blob/output/profile-summary-card-output/github_dark/0-profile-details.svg" />
-</a>
+- 🎯 **Data Engineer & Full-Stack Developer** focused on building production systems that are fast, reliable, and scalable  
+- 🔭 I work on: **data pipeline architecture**, **AI-powered analytics**, **web platforms**, and **automation**  
+- 🌱 Currently leveling up: **cloud architecture**, **system design**, and **advanced ML integration**  
+- ✅ Strength: turning messy data + business requirements into clean pipelines and usable products  
+- 📫 Reach me: **biniyamwonde135@gmail.com**
 
 ---
 
-### 🧠 Skills & Expertise
+## ⭐ Expertise Highlights (What I’m Strong At)
 
-#### 💻 Full-Stack Development
+✅ **Data Extraction at Scale**
+- Robust scraping pipelines (static + JS sites), retries, pagination, scheduling, and structured outputs  
+- Data cleaning & normalization (dedupe, validation, enrichment)
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+✅ **Backend & APIs**
+- REST/GraphQL API design, auth, background jobs, async processing  
+- Database modeling + query optimization (PostgreSQL)
 
-#### 📱 Mobile Development
+✅ **Production Engineering**
+- Dockerized deployments, environment-based configs, logging, and monitoring-friendly services  
+- Writing maintainable code with clear architecture and testing
 
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+✅ **Analytics & Automation**
+- ETL/ELT workflows, transforming raw events into usable analytics datasets  
+- Automation scripts that save time and reduce human error
 
-#### 🛠 Backend & APIs
+---
 
-![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776)
+## 🧰 Toolbox
+
+<div align="center">
+
+**Core**
+<br/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+<br/><br/>
+
+**Frontend**
+<br/>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+<br/><br/>
+
+**Backend & Data**
+<br/>
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/><br/>
+
+**Cloud & DevOps**
+<br/>
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Google%20Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 🕷️ Scraping & Data Extraction Tools
+
+<div align="center">
+
+![Scrapy](https://img.shields.io/badge/Scrapy-60A839?style=for-the-badge&logo=scrapy&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3B2F2F?style=for-the-badge&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-2B5B84?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Regex](https://img.shields.io/badge/Regex-5E5E5E?style=for-the-badge)
+
+</div>
+
+✅ **What I do with these tools**
+- Build reliable scrapers (static + JS rendering), normalize data to clean schemas  
+- Handle rate limiting, retries, proxy rotation patterns, and anti-bot edge cases  
+- Export to CSV/JSON/Parquet and load into Postgres/BigQuery-style warehouses  
+
+---
+
+## ✅ What I Build
+*(These are typical deliverables I can ship end-to-end)*
+
+- **Data Pipelines**: ingestion → transform → store → analytics-ready datasets  
+- **Scraping Systems**: scheduled crawlers, parsers, dedupe, and structured exports  
+- **APIs & Backends**: auth, role-based access, background jobs, integrations  
+- **Dashboards & Web Apps**: modern UI + scalable backend + database  
+- **Automation Tools**: scripts that reduce repetitive work and improve reliability  
+
+---
+
+## 🤝 Open to Collaboration
+
+| I can help with | Examples |
+|---|---|
+| Data Extraction | scraping, parsing, normalization, structured outputs |
+| Data Engineering | ETL pipelines, warehouse-ready datasets, automation |
+| Backend Systems | Django/Node APIs, auth, background workers |
+| Full-Stack Apps | dashboard + backend + DB + deployment |
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seme555&theme=github-compact" alt="GitHub Activity Graph"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seme555&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seme555&layout=compact&theme=radical" height="165" />
+</div>
+
+---
+
+## 📁 Featured Projects <a id="featured-projects"></a>
+
+| Project | Description |
+|--|--|
+| 🕷️ [ScrapeX](https://github.com/seme555/ScrapeX) | Advanced web scraping tool built with Python for data extraction and processing. |
+| 🧠 [Visionary](https://github.com/seme555/Visionary) | AI-powered system showcasing future-tech ideas and machine learning integration. |
+| 🛒 [React Commerce](https://github.com/seme555/react-commerce) | Full-stack e-commerce platform built with React and modern web technologies. |
+| 💬 [Vibe Chat](https://github.com/seme555/vibe-chat) | Real-time messaging application with modern UI/UX design. |
+| 📊 [Intelli-dash](https://github.com/seme555/Intelli-dash) | Intelligent dashboard system for data visualization and analytics. |
+
+---
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
