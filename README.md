@@ -146,14 +146,6 @@ Python • JavaScript • Cloud Platforms • Web Scraping • System Design
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=seme555&theme=github-compact" alt="GitHub Activity Graph"/>
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
