@@ -165,12 +165,3 @@ Python • JavaScript • Cloud Platforms • Web Scraping • System Design
 | 💬 [Vibe Chat](https://github.com/seme555/vibe-chat) | Real-time messaging application with modern UI/UX design. |
 | 📊 [Intelli-dash](https://github.com/seme555/Intelli-dash) | Intelligent dashboard system for data visualization and analytics. |
 
----
-
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
